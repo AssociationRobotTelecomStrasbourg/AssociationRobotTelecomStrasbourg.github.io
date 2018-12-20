@@ -6,10 +6,10 @@
 name: Robot Télécom Strasbourg
 
 # Short bio or description (displayed in the header)
-description: Association de Robotique de Télécom Physique strasbourg, Nous participons chaque année à la coupe de France de Robotique
+description: Association de Robotique de Télécom Physique strasbourg, nous participons chaque année à la coupe de France de Robotique
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/AssociationRobotTelecomStrasbourg/AssociationRobotTelecomStrasbourg.github.io/master/images/logo_arts.png
+avatar: /images/logo_arts.png
 
 #
 # Flags below are optional

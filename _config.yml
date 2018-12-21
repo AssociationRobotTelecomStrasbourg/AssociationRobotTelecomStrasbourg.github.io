@@ -14,14 +14,6 @@ avatar: /images/logo_arts.png
 # Custom
 collections:
   authors:
-    output: false
-
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
 
 #
 # Flags below are optional

@@ -1,4 +1,4 @@
-- name: Accueil
+- name: Home
   link: /
-- name: À propos
+- name: About
   link: /about.html

@@ -14,7 +14,7 @@ avatar: /images/logo_arts.png
 # Custom
 collections:
   authors:
-    output: true
+    output: false
 
 defaults:
   - scope:

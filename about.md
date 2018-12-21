@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-Some information about you!
+Description générale
 
-### More Information
+### Plus d'infos
 
-A place to include any other types of information that you'd like to include about yourself.
+blabla
 
-### Contact me
+### Contactez-nous
 
-[email@domain.com](mailto:email@domain.com)
+[robot.telecom.strasbourg@gmail.com](mailto:robot.telecom.strasbourg@gmail.com)

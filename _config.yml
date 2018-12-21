@@ -14,6 +14,7 @@ avatar: /images/logo_arts.png
 # Custom
 collections:
   authors:
+    output: true
 
 #
 # Flags below are optional

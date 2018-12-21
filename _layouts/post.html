@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Écrit le {{ page.date | date_to_string }}, par {{ page.author }}
+    Écrit le {{ page.date | date: "%d/%m/%Y" }}, par {{ page.author }}
   </div>
 
   {% include disqus.html %}

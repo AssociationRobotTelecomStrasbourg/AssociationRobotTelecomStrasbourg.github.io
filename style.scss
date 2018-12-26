@@ -14,7 +14,7 @@
 /***********/
 
 .current {
-  color: blue;
+  color: darkBlue;
 }
 
 /**************/
@@ -30,11 +30,11 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
 .container {
+
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 850px;
+  padding: 0 5px;
   width: 100%;
 }
 
@@ -159,7 +159,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -173,8 +173,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 140px;
+  height: 140px;
   margin-right: 15px;
 
   @include mobile {
@@ -219,10 +219,11 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  float: left;
+  margin-top: 25px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+
 
   @include mobile {
     float: none;
@@ -232,9 +233,10 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    padding: 8px;
+    margin-left: 0px;
     color: $darkGray;
-    text-align: right;
+    text-align: center;
     font-weight: 300;
     letter-spacing: 1px;
 
@@ -283,7 +285,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $darkGray;
 }
 
 footer {

@@ -42,12 +42,16 @@ body {
   background-color:$white;
   
   border-style:solid;
+  border-top-width: 2px;
+  border-top-color: $lightGray;
   border-left-width: 15px;
   border-right-width: 15px;
-  border-color: $darkGray;
+  border-left-color: $darkGray;
+  border-right-color: $darkGray;
   margin-left: 16vw;
   margin-right: 16vw;
   max-width: 66vw;
+  padding-top: 0px;
   padding-left: 15px;
   /*min-height: 100%;*/
   flex-grow:1;

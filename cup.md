@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coupe de France de Robotique
+permalink: /coupe/
 ---
 Robot Télécom Strasbourg participe chaque année à la coupe de France de Robotique, organisée par Planète Sciences.<br>
 L'édition 2019, nommée "Atom Factory", aura évidemment pour thème les atomes.<br>

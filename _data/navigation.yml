@@ -5,10 +5,10 @@
 - name: Projets
   link: /projects/
 - name: Coupe
-  link : /coupe/
+  link : /cup/
 - name: Sponsors
   link: /sponsors/
 - name: Wiki
-  link: /404.html
+  link: https://github.com/AssociationRobotTelecomStrasbourg/Formation/wiki
 - name: À propos
   link: /about/

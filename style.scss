@@ -9,6 +9,11 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: content-box;
+}
 /***********/
 /* CUSTOM */
 /***********/
@@ -313,6 +318,7 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  /*background-color:$lightGray;*/
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -37,7 +37,7 @@ html, body{
 body {
 	background-color:$white;
 	background-position:center;
-	background-image:url(/images/API_B.jpg);
+	background-image:url(/images/backgrounds/congruent_outline.png);
 	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
@@ -46,11 +46,11 @@ body {
 .container {
   background-color:$white;
 
-  border-style:solid;
-  border-left-width: 15px;
-  border-right-width: 15px;
-  border-left-color: $darkGray;
-  border-right-color: $darkGray;
+  // border-style:solid;
+  // border-left-width: 15px;
+  // border-right-width: 15px;
+  // border-left-color: $darkGray;
+  // border-right-color: $darkGray;
   margin-left: 16vw;
   margin-right: 16vw;
   max-width: 66vw;

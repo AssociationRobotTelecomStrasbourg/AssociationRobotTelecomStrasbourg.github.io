@@ -5,20 +5,14 @@ permalink: /team/
 ---
 
 
-- ## Augustin Bielefeld
-Président
+_Augustin Bielefeld_ : Président
 
-- ## Jonathan Plasse
-Responsable coupe
+_Jonathan Plasse_ : Responsable coupe
 
-- ## Arnaud Schlumberger
-Vice-président, responsable communication
+_Arnaud Schlumberger_ : Vice-président, responsable communication
 
-- ## Michèle Le
-Secrétaire
+_Michèle Le_ : Secrétaire
 
-- ## Paul Erian
-Trésorier
+_Paul Erian_ : Trésorier
 
-- ## Samuel Sanchez
-Responsable sponsors
+_Samuel Sanchez_ : Responsable sponsors

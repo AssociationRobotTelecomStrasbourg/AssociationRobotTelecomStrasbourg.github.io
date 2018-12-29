@@ -40,7 +40,7 @@ body {
 }
 .container {
   background-color:$white;
-  
+
   border-style:solid;
   border-top-width: 2px;
   border-top-color: $lightGray;
@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  text-decoration: underline;
+  // text-decoration: underline;
   font-size: 30px;
   a {
     color: inherit;

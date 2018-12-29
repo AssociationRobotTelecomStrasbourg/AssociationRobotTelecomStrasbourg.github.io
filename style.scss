@@ -9,6 +9,11 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: content-box;
+}
 /***********/
 /* CUSTOM */
 /***********/
@@ -40,10 +45,8 @@ body {
 }
 .container {
   background-color:$white;
-  
+
   border-style:solid;
-  border-top-width: 2px;
-  border-top-color: $lightGray;
   border-left-width: 15px;
   border-right-width: 15px;
   border-left-color: $darkGray;
@@ -75,7 +78,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  text-decoration: underline;
   font-size: 30px;
   a {
     color: inherit;
@@ -316,6 +318,7 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  /*background-color:$lightGray;*/
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -36,8 +36,8 @@ html, body{
 }
 body {
 	background-color:$white;
-	background-position:center;
-	background-image:url(/images/API_B.jpg);
+	background-position: left center;
+	background-image:url(/images/backgrounds/API_B.jpg);
 	background-attachment: fixed;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
@@ -47,8 +47,8 @@ body {
   background-color:$white;
 
   border-style:solid;
-  border-left-width: 15px;
-  border-right-width: 15px;
+  border-left-width: 10px;
+  border-right-width: 10px;
   border-left-color: $darkGray;
   border-right-color: $darkGray;
   margin-left: 16vw;

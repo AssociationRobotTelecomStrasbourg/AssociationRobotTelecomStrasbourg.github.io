@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Projets
+title: Projects
 ---
 {% include under_construction.html %}

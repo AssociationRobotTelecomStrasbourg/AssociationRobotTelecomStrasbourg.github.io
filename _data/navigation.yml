@@ -1,14 +1,14 @@
-- name: Accueil
+- name: Home
   link: /
-- name: Équipe
+- name: Team
   link: /team/
-- name: Projets
+- name: Projects
   link: /projects/
-- name: Coupe
+- name: Cup
   link : /cup/
 - name: Sponsors
   link: /sponsors/
 - name: Wiki
   link: https://github.com/AssociationRobotTelecomStrasbourg/Formation/wiki
-- name: À propos
+- name: About
   link: /about/

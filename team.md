@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Équipe
+title: Team
 permalink: /team/
 ---
 
 
 - ### Augustin Bielefeld
-Président
+President
 
 - ### Jonathan Plasse
-Responsable coupe
+Robotic cup manager
 
 - ### Arnaud Schlumberger
-Vice-président, responsable communication
+Vice-president, communication manager
 
 - ### Michèle Le
-Secrétaire
+Secretary
 
 - ### Paul Erian
-Trésorier
+Treasurer
 
 - ### Samuel Sanchez
-Responsable sponsors
+Sponsorship manager

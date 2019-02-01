@@ -45,12 +45,11 @@ body {
 }
 .container {
   background-color:$white;
-
   border-style:solid;
   border-left-color: $darkGray;
   border-right-color: $darkGray;
-  margin-left: 0px;
-  margin-right: 0px;
+  margin-left: 5vw;
+  margin-right: 5vw;
   /*max-width: 66vw;*/
   padding-top: 0px;
   padding-left: 15px;
@@ -321,6 +320,8 @@ nav {
 }
 
 footer {
+  margin-left:-6vw;
+  margin-right:-5vw;
   padding: 20px 0;
   text-align: center;
   /*background-color:$lightGray;*/

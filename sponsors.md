@@ -2,10 +2,10 @@
 layout: page
 title: Sponsors
 ---
-Robot Telecom Strasbourg is an association led by students. Therefore our resources depend a lot on the help coming from (of?) companies, and that is why we need your help !<br>
+Robot Telecom Strasbourg is an association led by students. Therefore our resources depend a lot on the help coming from companies, and that is why we need your help !<br>
 <h2>How to help ?</h2>
 Financial Donation<br>
-Supplies (components?) Donation<br>
+Supplies donation<br>
 Preferential pricing<br>
 
 <h2>Why sponsoring us ?</h2>

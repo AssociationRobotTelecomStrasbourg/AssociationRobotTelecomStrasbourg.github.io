@@ -12,7 +12,9 @@ The Coupe de France de Robotique an international event organized by Planètes S
 The event consists of making an autonomous robot to carry out different tasks in the arena. One match consists of two teams simultaneously competing in the arena for 100 seconds. Because it is a friendly competition, robots are not allowed to hinder the other team.
 
 There are 9 months to build a robot for the event. Thus there is a intensive work on mechanics, electronics and programming, as well as organization and team spirit.
-Atom Factory 2019's edition
+
+<h1>Atom Factory 2019's edition</h1>
+
 <img src="/images/arena1.png" alt="Arena2019">
 This year's edition is named "Atom Factory", atoms are represented by colored hockey pucks.
 

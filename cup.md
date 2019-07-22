@@ -2,7 +2,7 @@
 layout: page
 title: French Robotics Cup
 ---
-<span class="image fit"><img src="/images/CDR-LOGO.png" alt="CDR_Logo" /></span>
+<span class="image left"><img src="/images/CDR-LOGO.png" alt="CDR_Logo" /></span>
 
 The Coupe de France de Robotique an international event organized by Planètes Science every year since 1994. The competition gathers more than 1500 student from Europe and Morroco.
 

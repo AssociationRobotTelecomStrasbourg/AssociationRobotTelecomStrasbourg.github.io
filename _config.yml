@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
-disqus_shortname:   robottlcomstrasbourg
+disqus_shortname:   robottelecom
 
 # Social
 analytics-id:       "default"

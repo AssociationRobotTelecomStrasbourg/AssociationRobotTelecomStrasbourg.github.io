@@ -2,6 +2,8 @@
 layout: page
 title: French Robotics Cup
 ---
+## Coupe de France de Robotique
+
 <span class="image left"><img src="/images/CDR-LOGO.png" alt="CDR_Logo" /></span>
 
 The Coupe de France de Robotique an international event organized by Planètes Science every year since 1994. The competition gathers more than 1500 student from Europe and Morroco.
@@ -10,7 +12,7 @@ The event consists of making an autonomous robot to carry out different tasks in
 
 There are 9 months to build a robot for the event. Thus there is a intensive work on mechanics, electronics and programming, as well as on organization and team spirit.
 
-# Atom Factory 2019's edition
+## Atom Factory 2019's edition
 
 <span class="image right"><img src="/images/arena1.png" alt="Arena2019" /></span>
 This year's edition is named "Atom Factory", atoms are represented by colored hockey pucks.

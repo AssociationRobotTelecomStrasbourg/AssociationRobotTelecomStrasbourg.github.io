@@ -4,13 +4,10 @@ title: Resources
 description: Resources compilation
 sitemap:
     priority: 0.7
-    lastmod: 2019-27-07
+    lastmod: 2019-07-27
     changefreq: weekly
 ---
 ## Compilation des ressources
-
-
-
 ### Coupe de France
 
 - Equipes:
